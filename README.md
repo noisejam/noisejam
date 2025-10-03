@@ -1,16 +1,38 @@
-## Hi there 👋
+# About Me
 
-<!--
-**noisejam/noisejam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm a backend developer who loves using Python to build things people actually use. Right now, I'm diving deep into FastAPI and having fun exploring the world of bots with aiogram.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages
+- Python
+- SQL
+- HTML5
+- CSS3
+
+### Frameworks & Libraries
+- Django
+- FastAPI
+- DRF (Django REST)
+- SQLAlchemy
+- pydantic
+- Aiogram
+- Flask
+- Pandas
+- Numpy
+- Pytest
+
+### Databases
+- PostgreSQL
+- SQLite
+
+### DevOps & Infrastructure
+- Docker
+- Nginx
+- Docker compose
+- GitHub Actions
+
+### Tools
+- Git
+- Postman
+- DBeaver
