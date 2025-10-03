@@ -1,4 +1,4 @@
-# Aleksandra Chunina
+# Alexandra Chunina
 ## 👋 About Me
 Hi! I'm a backend developer who loves building things people actually use with Python. Right now, I'm diving deep into FastAPI and having fun exploring the world of bots with aiogram.
 
