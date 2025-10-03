@@ -1,6 +1,6 @@
 # About Me
 
-Hi! I'm a backend developer who loves using Python to build things people actually use. Right now, I'm diving deep into FastAPI and having fun exploring the world of bots with aiogram.
+Hi! I'm a backend developer who loves building things people actually use with Python. Right now, I'm diving deep into FastAPI and having fun exploring the world of bots with aiogram.
 
 ## Tech Stack
 
